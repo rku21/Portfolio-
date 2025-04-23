@@ -148,7 +148,7 @@
   @media (max-width: 600px) {
     nav {
       flex-wrap: wrap;
-      gap: 2rem;
+      gap: 1.5rem;
     }
 
     .profile-pic {
@@ -215,7 +215,7 @@
 
     nav button {
       padding: 6px;
-      font-size: 1rem;
+      font-size: 0.9rem;
 
     }
   }
